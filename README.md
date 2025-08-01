@@ -1,6 +1,6 @@
 # 💱 Currency Converter Web App
 
-A lightweight and responsive **Currency Converter Web App** built using **HTML**, **CSS**, and **JavaScript**. It uses live exchange rates fetched from [CurrencyConverterAPI](https://www.currencyconverterapi.com/) to convert amounts between currencies in real-time.
+A lightweight and responsive **Currency Converter Web App** built using **HTML**, **CSS**, and **JavaScript**. It uses live exchange rates fetched from [CurrencyConverterAPI](https://app.currencyapi.com/login) to convert amounts between currencies in real-time.
 
 ## 🚀 Features
 
